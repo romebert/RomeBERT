@@ -83,3 +83,15 @@ This is for evaluating fine-tuned `RomeBERT - SD+GR` models, given a number of d
 
 This is for creating output tsv file for test split for fine-tuned `RomeBERT - SD+GR` models.
 
+
+## Citations
+```
+@misc{geng2021romebert,
+    title={RomeBERT: Robust Training of Multi-Exit BERT},
+    author={Shijie Geng and Peng Gao and Zuohui Fu and Yongfeng Zhang},
+    year={2021},
+    eprint={2101.09755},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
